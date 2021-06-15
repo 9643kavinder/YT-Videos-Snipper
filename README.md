@@ -18,7 +18,6 @@
 ```bash
 $git clone https://github.com/9643kavinder/YT-Videos-Snipper.git
 cd YT-Videos-Snipper
-docker-compose build
 docker-compose up
 ```
 
