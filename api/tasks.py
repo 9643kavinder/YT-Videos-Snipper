@@ -28,7 +28,7 @@ def yt_crawl_job(*args, **kwargs):
                                             order="date", 
                                             maxResults=50,
                                             publishedAfter=req_search_time,
-                                            q="music"
+                                            q="comedy"
                                         )
             response = request.execute()
             items = response['items']
