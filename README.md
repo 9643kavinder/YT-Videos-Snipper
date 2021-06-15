@@ -5,3 +5,11 @@
 • Using Celery for task queue with Redis as a message broaker.</br>
 • Search api supports case-insensitive partial matches.</br>
 
+## Set Up Procedure
+### Clone This Repo
+
+```bash
+$git clone https://github.com/9643kavinder/YT-Videos-Snipper.git
+cd YT-Videos-Snipper
+docker-compose up --build
+```
