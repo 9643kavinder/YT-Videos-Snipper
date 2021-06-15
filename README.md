@@ -5,6 +5,13 @@
 • Using Celery for task queue with Redis as a message broaker.</br>
 • Search api supports case-insensitive partial matches.</br>
 
+## Public Api's
+• List View => http://localhost:8000/</br>
+• Detail View => http://localhost:8000/<id></br>
+• Wild Searching either on description or title => http://localhost:8000/?search=<text></br>
+• Sorted results either on published_on or created_at => http://localhost:8000/?ordering=published_on</br>
+• Paginated Responses with ?page=<integer> for all the requests</br>  
+
 ## Set Up Procedure
 ### Clone This Repo
 
