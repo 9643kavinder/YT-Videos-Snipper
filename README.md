@@ -20,6 +20,8 @@ $git clone https://github.com/9643kavinder/YT-Videos-Snipper.git
 cd YT-Videos-Snipper
 docker-compose up --build
 ```
+
+##Screenshots
 <p align="center">
   <img src="https://github.com/9643kavinder/YT-Videos-Snipper/blob/main/screenshots/2.png" />
  </p>
