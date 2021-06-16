@@ -13,7 +13,7 @@
 • Paginated Responses with ?page={number} for all the requests</br>  
 
 ## Set Up Procedure
-### Clone This Repo
+### Clone This Repo And Execute
 
 ```bash
 $git clone https://github.com/9643kavinder/YT-Videos-Snipper.git
